@@ -6,3 +6,6 @@ A neural network with one hidden layer built from scratch to predict bike sharin
 * NumPy
 * Pandas
 * matplotlib
+
+# References
+* Udacity Deep Learning Nanodegree
