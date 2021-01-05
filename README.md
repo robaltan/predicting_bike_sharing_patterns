@@ -1,1 +1,1 @@
-# predicting_bike_sharing_patterns
+# Predicting Bike Sharing Pattern in Washington D.C.
